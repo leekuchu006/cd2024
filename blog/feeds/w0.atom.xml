@@ -1,58 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123211協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T11:00:00+08:00</updated><entry><title>20240411 41123211</title><link href="./2024-Spring-w8-blog-41123211.html" rel="alternate"></link><published>2024-04-11T11:00:00+08:00</published><updated>2024-04-11T07:29:14+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-11:./2024-Spring-w8-blog-41123211.html</id><summary type="html">&lt;p&gt;本周進行Latex翻譯文章統整
-以及製作期中報告影片&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;本周進行Latex翻譯文章統整
-以及製作期中報告影片&lt;/p&gt;
-
-
-&lt;h1&gt;Latex翻譯文章統整及製作期中報告影片&lt;/h1&gt;
-&lt;p&gt;這周我進行了組員們翻譯好的文章之統整，現在還在持續修正，常有格式不合，或是檔名或內容有問題的情況發生，希望能趕緊統整完畢並繳交。&lt;/p&gt;
-&lt;p&gt;這周還進行了期中影片的製作，雖然不知道形式有沒有符合老師要的，但我就盡力將我期中前所做的工作報告在影片內，希望有符合老師的期待。&lt;/p&gt;</content><category term="w8 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>20240328 41123211</title><link href="./2024-Spring-w6-blog-41123211.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-04-11T07:29:12+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./2024-Spring-w6-blog-41123211.html</id><summary type="html">&lt;p&gt;本周將進行NX及CoppeliaSim&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;本周將進行NX及CoppeliaSim&lt;/p&gt;
-
-
-&lt;h1&gt;本周進行NX及Coppeliasim的安裝及熟悉&lt;/h1&gt;
-&lt;p&gt;本周在我的筆電上安裝了nx以及coppeliasim，並實際進入軟體實作，複習一下上學期所操作的內容。&lt;/p&gt;
-&lt;p&gt;基本上和上學期沒有太大差別，之後就只要將老師的題目再實際繪出並利用coppeliasim模擬就行了。&lt;/p&gt;</content><category term="w6 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>20240321 41123211</title><link href="./2024-Spring-w5-blog-41123211.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-04-11T07:29:10+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./2024-Spring-w5-blog-41123211.html</id><summary type="html">&lt;p&gt;本周將OOTO PLM相關文章進行翻譯工作。&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;本周將OOTO PLM相關文章進行翻譯工作。&lt;/p&gt;
-
-
-&lt;h1&gt;本周進行了開學至今的課程統整，以及OODO PLM文章的翻譯工作。&lt;/h1&gt;
-&lt;p&gt;我們組分配了大約1人10頁的工作，而我負責統整所有內容，這次的翻譯工作必須由latex的格式來製作，算是一個新的挑戰，之前從來沒有用過類似的方式進行報告的製作，不知道成效會如何。&lt;/p&gt;
-&lt;p&gt;另外老師還指派了一項作業，就是要將開學到現在的所有影片加上字幕並進行重點摘要，這個作業感覺不太容易，是需要花一些時間和心力來製作的。&lt;/p&gt;</content><category term="w5 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>20240314 41123211</title><link href="./2024-Spring-w4-blog-41123211.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-04-11T07:29:04+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./2024-Spring-w4-blog-41123211.html</id><summary type="html">&lt;p&gt;本周學到了以blog的形式進行網誌更新。&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;本周學到了以blog的形式進行網誌更新。&lt;/p&gt;
-
-
-&lt;h1&gt;本周進行了blog的設置。&lt;/h1&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;先執行下列指令&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;chmod&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;u&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;gen_blog&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;再至markdown/pages/pages_1.md中修改倉儲、網站、簡報、網誌等資訊。&lt;/p&gt;
-&lt;p&gt;在pages資料夾下新增.md檔即可進行網頁的編輯。&lt;/p&gt;</content><category term="w4 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>20240307 41123211</title><link href="./2024-Spring-w3-blog-41123211.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-04-11T07:29:06+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./2024-Spring-w3-blog-41123211.html</id><summary type="html">&lt;p&gt;本周加入組員之子模組，並設置SSH。&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;本周加入組員之子模組，並設置SSH。&lt;/p&gt;
-
-
-&lt;h1&gt;加入組員子模組&lt;/h1&gt;
-&lt;p&gt;本周以指令進行組員倉儲clone到團隊倉儲的操作，利用下列指令:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;  git submodule add 組員之倉儲網址 組員學號
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;進行組員倉儲的cloning。&lt;/p&gt;
-&lt;p&gt;本周也設置了團隊倉儲的ssh，此次所設置的Key是以replit為導向所建立的。&lt;/p&gt;
-&lt;p&gt;以key-gen建立ssh的key，並將id_rsa進行copy，再以github建立key，再將config內的協定設置為SSH，再將所建立之config.txt及id_rsa下載下來，移至2021(Y)/tmp即可。&lt;/p&gt;</content><category term="w3 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>20240229 41123211</title><link href="./2024-Spring-w2-blog-41123211.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-04-11T07:28:03+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-41123211.html</id><summary type="html">&lt;p&gt;本周建立團隊分組倉儲。&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;本周建立團隊分組倉儲。&lt;/p&gt;
-
-
-&lt;h1&gt;建立分組倉儲&lt;/h1&gt;
-&lt;p&gt;本周以第一周之做法新增名為2b-midbg1之網站，但由於沒有權限，需設置ssh進行授權，並將 .git/config 中的協定改為ssh。&lt;/p&gt;
-&lt;p&gt;目前已設置完成，倉儲鏈結 : &lt;a href="https://github.com/mdecd2024/2b-midbg1"&gt;https://github.com/mdecd2024/2b-midbg1&lt;/a&gt;&lt;/p&gt;</content><category term="w2 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>20240223 41123211</title><link href="./2024-Spring-w1-blog-41123211.html" rel="alternate"></link><published>2024-02-23T11:00:00+08:00</published><updated>2024-04-11T07:29:24+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-23:./2024-Spring-w1-blog-41123211.html</id><summary type="html">&lt;p&gt;本周以老師發的倉儲建立個人網站。&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;本周以老師發的倉儲建立個人網站。&lt;/p&gt;
-
-
-&lt;h1&gt;建立個人網站&lt;/h1&gt;
-&lt;p&gt;以 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;https://github.com/mdecycu/cmsimde_site&lt;/a&gt; 作為Template，新增一個名為CD2024的倉儲，並新增Github的雙重驗證等等，與前兩學期之所學類同。&lt;/p&gt;
-&lt;p&gt;本學期以"協同"為原則進行，強調組員之間的分工合作，希望本學期順利。&lt;/p&gt;</content><category term="w1 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w0-blog-.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-04-11T07:38:10+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w0-blog-.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123211協同產品設計實習 - w0</title><link href="./" rel="alternate"></link><link href="./feeds/w0.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T07:38:10+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w0-blog-.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-04-11T07:38:10+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w0-blog-.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
