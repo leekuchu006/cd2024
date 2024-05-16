@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>41123211協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T11:00:00+08:00</updated><entry><title>20240516 41123211</title><link href="./2024-Spring-w13-blog-41123211.html" rel="alternate"></link><published>2024-05-16T11:00:00+08:00</published><updated>2024-05-16T06:36:34+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-16:./2024-Spring-w13-blog-41123211.html</id><content type="html">&lt;p&gt;今天進行之前工作內容的彙整&lt;/p&gt;
-</content><category term="w13 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>20240509 41123211</title><link href="./2024-Spring-w12-blog-41123211.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-05-16T06:45:24+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-09:./2024-Spring-w12-blog-41123211.html</id><summary type="html">&lt;p&gt;今天進行鋼球平衡台的NX繪製&lt;/p&gt;
+</content><category term="w13 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>20240509 41123211</title><link href="./2024-Spring-w12-blog-41123211.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-05-16T06:50:16+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-09:./2024-Spring-w12-blog-41123211.html</id><summary type="html">&lt;p&gt;今天進行鋼球平衡台的NX繪製&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;今天進行鋼球平衡台的NX繪製&lt;/p&gt;
 
 
@@ -15,7 +15,7 @@
 &lt;h1&gt;Journal功能實作&lt;/h1&gt;
 &lt;p&gt;今天進行Journal功能的學習及實作，相關實作過程已放在個人網站上。&lt;/p&gt;
 &lt;p&gt;總而言之，Journal是個我完全沒接觸過的一個功能，它利用程式的描述進行錄製並輸出，可以避免一些因為裝置不同而衍生的狀況。&lt;/p&gt;
-&lt;p&gt;而今天也進行了NX各種功能的操作，由於是英文介面，有些功能還不太熟悉，需要多多操作才能熟練。&lt;/p&gt;</content><category term="w11 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>20240425 41123211</title><link href="./2024-Spring-w10-blog-41123211.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-05-16T06:44:16+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-25:./2024-Spring-w10-blog-41123211.html</id><summary type="html">&lt;p&gt;本周進行鋼球平衡台 PID 控制與模擬資料整理，以及實作。&lt;/p&gt;
+&lt;p&gt;而今天也進行了NX各種功能的操作，由於是英文介面，有些功能還不太熟悉，需要多多操作才能熟練。&lt;/p&gt;</content><category term="w11 41123211"></category><category term="網誌編寫 41123211"></category></entry><entry><title>20240425 41123211</title><link href="./2024-Spring-w10-blog-41123211.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-05-16T06:49:14+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-25:./2024-Spring-w10-blog-41123211.html</id><summary type="html">&lt;p&gt;本周進行鋼球平衡台 PID 控制與模擬資料整理，以及實作。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本周進行鋼球平衡台 PID 控制與模擬資料整理，以及實作。&lt;/p&gt;
 
 
