@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123211協同產品設計實習 - w17 41123211</title><link href="./" rel="alternate"></link><link href="./feeds/w17-41123211.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T11:00:00+08:00</updated><entry><title>20240613 41123211</title><link href="./2024-Spring-w17-blog-41123211.html" rel="alternate"></link><published>2024-06-13T11:00:00+08:00</published><updated>2024-06-13T09:49:00+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-06-13:./2024-Spring-w17-blog-41123211.html</id><summary type="html">&lt;p&gt;今天進行老師指派的工作&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;今天進行老師指派的工作&lt;/p&gt;
+
+
+&lt;h1&gt;進行老師指派的期末作業&lt;/h1&gt;
+&lt;p&gt;這周執行老師交付給我們的期末作業，其中包含了三個項目，第一個是進行足球機器人本體的繪製，第二個是進行機器人各部件的組合，最後則是將組合完的機器人導入 CoppeliaSim 並進行程式模擬，使機器人能前後移動。&lt;/p&gt;
+&lt;p&gt;前兩個項目目前已經順利完成，繪圖過程中也沒有遇到甚麼大問題，繪圖過程和成品已經放在靜態網頁中。&lt;/p&gt;
+&lt;p&gt;其中在模擬的時候，有遇到機器人動不起來的情況，目前還在進行嘗試，希望最後能順利進行模擬。&lt;/p&gt;</content><category term="w17 41123211"></category><category term="網誌編寫 41123211"></category></entry></feed>
